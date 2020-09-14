@@ -36,7 +36,7 @@
 <br /><br /><br />
 
 <img align="left" alt="Mehrab Haque's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehrab-haque&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mehrab-haque&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mehrab-haque&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://buet-edu-lang-eng.netlify.com/
 [facebook]: https://www.facebook.com/mdmehrab.haque.9/
